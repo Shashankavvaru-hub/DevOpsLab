@@ -1,1 +1,0 @@
-This is just a temp file for practicing git fundamentals in devops lab : line 2
